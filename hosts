@@ -1,5 +1,23 @@
-# stievie
-#
+# 2016-03-11
+
+127.0.0.1 adserver-router32-public.prod.vungle.com
+127.0.0.1 adserver-vpc-production-v2-669935021.us-east-1.elb.amazonaws.com
+127.0.0.1 api.vungle.akadns.net
+127.0.0.1 app.adjust.com
+127.0.0.1 c.medialets.akadns.net
+127.0.0.1 decide.mixpanel.com
+127.0.0.1 e.crashlytics.com
+127.0.0.1 events-endpoint-455714294.us-east-1.elb.amazonaws.com
+127.0.0.1 pagead46.l.doubleclick.net
+127.0.0.1 partnerad.l.doubleclick.net
+127.0.0.1 photos-ugc.l.googleusercontent.com
+127.0.0.1 s-cdn-creative.medialytics.com
+127.0.0.1 s-cdn-tag.medialytics.com
+127.0.0.1 settings.crashlytics.com
+127.0.0.1 v.chartboost.com
+127.0.0.1 wildcard.moatads.com.edgekey.net
+
+
 127.0.0.1 bsnl.eyeblaster.akadns.net
 127.0.0.1 dart.l.doubleclick.net
 127.0.0.1 5e124.v.fwmrm.net

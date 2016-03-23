@@ -24,8 +24,9 @@
 127.0.0.1 g3.v.fwmrm.net
 127.0.0.1 ad.doubleclick.net
 
+# home lan redirects
 172.16.30.3 uk.yvanj.me
-
+172.16.30.3 watch.buttsecks.net
 
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain

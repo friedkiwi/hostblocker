@@ -1,0 +1,3 @@
+#!/bin/bash
+
+tcpdump -i em1 -vvv -s 0 -l -n port 53 | php ./parse-tcpdump-udp-port-53.php -f | grep "A   "

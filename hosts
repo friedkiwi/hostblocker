@@ -1,3 +1,83 @@
+# 2016-04-09
+
+127.0.0.1 adserver-router00-public.prod.vungle.com
+127.0.0.1 adserver-router01-public.prod.vungle.com
+127.0.0.1 adserver-router02-public.prod.vungle.com
+127.0.0.1 adserver-router03-public.prod.vungle.com
+127.0.0.1 adserver-router04-public.prod.vungle.com
+127.0.0.1 adserver-router05-public.prod.vungle.com
+127.0.0.1 adserver-router06-public.prod.vungle.com
+127.0.0.1 adserver-router07-public.prod.vungle.com
+127.0.0.1 adserver-router08-public.prod.vungle.com
+127.0.0.1 adserver-router09-public.prod.vungle.com
+127.0.0.1 adserver-router10-public.prod.vungle.com
+127.0.0.1 adserver-router11-public.prod.vungle.com
+127.0.0.1 adserver-router12-public.prod.vungle.com
+127.0.0.1 adserver-router13-public.prod.vungle.com
+127.0.0.1 adserver-router14-public.prod.vungle.com
+127.0.0.1 adserver-router15-public.prod.vungle.com
+127.0.0.1 adserver-router16-public.prod.vungle.com
+127.0.0.1 adserver-router17-public.prod.vungle.com
+127.0.0.1 adserver-router18-public.prod.vungle.com
+127.0.0.1 adserver-router19-public.prod.vungle.com
+127.0.0.1 adserver-router20-public.prod.vungle.com
+127.0.0.1 adserver-router21-public.prod.vungle.com
+127.0.0.1 adserver-router22-public.prod.vungle.com
+127.0.0.1 adserver-router23-public.prod.vungle.com
+127.0.0.1 adserver-router24-public.prod.vungle.com
+127.0.0.1 adserver-router25-public.prod.vungle.com
+127.0.0.1 adserver-router26-public.prod.vungle.com
+127.0.0.1 adserver-router27-public.prod.vungle.com
+127.0.0.1 adserver-router28-public.prod.vungle.com
+127.0.0.1 adserver-router29-public.prod.vungle.com
+127.0.0.1 adserver-router30-public.prod.vungle.com
+127.0.0.1 adserver-router31-public.prod.vungle.com
+127.0.0.1 adserver-router32-public.prod.vungle.com
+127.0.0.1 adserver-router33-public.prod.vungle.com
+127.0.0.1 adserver-router34-public.prod.vungle.com
+127.0.0.1 adserver-router35-public.prod.vungle.com
+127.0.0.1 adserver-router36-public.prod.vungle.com
+127.0.0.1 adserver-router37-public.prod.vungle.com
+127.0.0.1 adserver-router38-public.prod.vungle.com
+127.0.0.1 adserver-router39-public.prod.vungle.com
+127.0.0.1 adserver-router40-public.prod.vungle.com
+127.0.0.1 www.adtilt.com
+127.0.0.1 events3alt.adcolony.com
+127.0.0.1 ingest.vungle.com
+127.0.0.1 a4.mzstatic.com
+127.0.0.1 a3.mzstatic.com
+127.0.0.1 a2.mzstatic.com
+127.0.0.1 mzuserxp.itunes-apple.com.akadns.net 
+127.0.0.1 iadctest.qwapi.com.edgesuite.net
+127.0.0.1 med.heyzap.com
+127.0.0.1 ads.heyzap.com
+127.0.0.1 engine.fyber.com
+127.0.0.1 video.fyber.com
+127.0.0.1 s.mopub.com
+127.0.0.1 connect.tapjoy.com
+127.0.0.1 api.vungle.com
+127.0.0.1 mobile.mediabrix.com
+127.0.0.1 iosads24.adcolony.com
+127.0.0.1 live.chartboost.com
+127.0.0.1 v2.chartboost.com
+127.0.0.1 pagead46.l.doubleclick.net
+127.0.0.1 ads.flurry.com
+127.0.0.1 pagead.l.doubleclick.net
+127.0.0.1 adserverrouter.prod.vungle.com
+127.0.0.1 api.vungle.akadns.net
+
+# 2016-04-04
+
+10.90.113.108 hmc.home.yvanj.me
+
+# 2016-04-02
+
+10.90.113.204 temp.buttsecks.net
+
+# 2016-04-01
+
+10.90.113.131 webdobby.buttsecks.net
+
 # 2016-03-11
 
 127.0.0.1 adserver-router32-public.prod.vungle.com
@@ -25,8 +105,8 @@
 127.0.0.1 ad.doubleclick.net
 
 # home lan redirects
-172.16.30.3 uk.yvanj.me
-172.16.30.3 watch.buttsecks.net
+10.90.113.3 uk.yvanj.me
+10.90.113.3 watch.buttsecks.net
 
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain

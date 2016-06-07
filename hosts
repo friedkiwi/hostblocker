@@ -1,3 +1,9 @@
+10.1.15.30 ah-esx-t-05.dmz.gds
+
+# 2016-04-21 - Solaris experiments
+
+10.90.113.222 oldspark oldspark.home.yvanj.me
+
 # 2016-04-09
 
 127.0.0.1 adserver-router00-public.prod.vungle.com
@@ -72,7 +78,6 @@
 
 # 2016-04-02
 
-10.90.113.204 temp.buttsecks.net
 
 # 2016-04-01
 
@@ -5210,7 +5215,7 @@ fe80::1%lo0 localhost
 0.0.0.0 79423.analytics.edgekey.net
 0.0.0.0 my-cdn.effectivemeasure.net
 0.0.0.0 cdn.fastclick.net
-0.0.0.0 m1.fwmrm.net
+#0.0.0.0 m1.fwmrm.net
 0.0.0.0 js.indexww.com
 0.0.0.0 a01.korrelate.net
 0.0.0.0 a02.korrelate.net

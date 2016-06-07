@@ -9,6 +9,8 @@ This hosts file will block:
 * analytics services
 * unnecessary license verification/privacy invasion 
 
+In addition to that, this file also contains internal redirections. Make sure to grep out only the 0.0.0.0 and 127.0.0.1 entries before use
+
 Pull request policy
 -------------------
 

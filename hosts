@@ -13468,7 +13468,7 @@ fe80::1%lo0 localhost
 0.0.0.0 s.clicktale.net
 0.0.0.0 images.ddc.com
 0.0.0.0 cdn.firstlook.com
-# 0.0.0.0  adm.fwmrm.net #[affects nhl.com]
+#0.0.0.0  adm.fwmrm.net #[affects nhl.com]
 0.0.0.0 m2.fwmrm.net
 0.0.0.0 cache.gfrevenge.com
 0.0.0.0 cache.izearanks.com
@@ -17607,7 +17607,6 @@ fe80::1%lo0 localhost
 0.0.0.0 kids-in-sandbox.com
 0.0.0.0 kidsinsandbox.info
 0.0.0.0 lemonparty.biz
-0.0.0.0 lemonparty.org
 0.0.0.0 lolhello.com
 0.0.0.0 lolshock.com
 0.0.0.0 loltrain.com

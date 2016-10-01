@@ -71,11 +71,11 @@
 127.0.0.1 www.adtilt.com
 127.0.0.1 events3alt.adcolony.com
 127.0.0.1 ingest.vungle.com
-127.0.0.1 a4.mzstatic.com
-127.0.0.1 a3.mzstatic.com
-127.0.0.1 a2.mzstatic.com
-127.0.0.1 mzuserxp.itunes-apple.com.akadns.net 
-127.0.0.1 iadctest.qwapi.com.edgesuite.net
+#127.0.0.1 a4.mzstatic.com
+#127.0.0.1 a3.mzstatic.com
+#127.0.0.1 a2.mzstatic.com
+#127.0.0.1 mzuserxp.itunes-apple.com.akadns.net 
+#127.0.0.1 iadctest.qwapi.com.edgesuite.net
 127.0.0.1 med.heyzap.com
 127.0.0.1 ads.heyzap.com
 127.0.0.1 engine.fyber.com
